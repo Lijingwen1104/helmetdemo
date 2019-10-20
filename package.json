@@ -1,0 +1,26 @@
+{
+  "name": "helmetdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lijingwen1104/helmetdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lijingwen1104/helmetdemo/issues"
+  },
+  "homepage": "https://github.com/Lijingwen1104/helmetdemo#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "xlsx": "^0.14.3"
+  }
+}
